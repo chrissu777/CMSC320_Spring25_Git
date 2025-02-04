@@ -5,3 +5,7 @@ Answer: Git allows us to have multiple independent branches which makes developm
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to many different fields, because data exists everywhere. For example, it can be applied in a financial setting for market forecasting. It could be applied to social media for friend recommendations.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge merges two branches to a feature branch and keeps the histories of both branches intact. Rebase rewrites history by putting changes from one branch at the beginning of another, resulting in a more linear project history.
