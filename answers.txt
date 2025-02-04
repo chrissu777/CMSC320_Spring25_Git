@@ -9,3 +9,7 @@ Answer: Data science can be applied to many different fields, because data exist
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge merges two branches to a feature branch and keeps the histories of both branches intact. Rebase rewrites history by putting changes from one branch at the beginning of another, resulting in a more linear project history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working on the semester-long group project.
